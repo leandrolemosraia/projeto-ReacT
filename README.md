@@ -1,3 +1,4 @@
+
 # Aula 5 - Avaliador de Filmes (projeto final)
 
 Rodar:
@@ -38,3 +39,6 @@ O `index.html` aponta para a pasta no `<script>`: `src="/1-src-final/main.jsx"`.
 ## Onde ficam os dados
 
 A **Minha lista** e as notas ficam salvas no próprio navegador (`localStorage`), não em um servidor. Elas continuam depois de recarregar a página, mas só existem naquele navegador e naquele computador, e somem se os dados do navegador forem apagados.
+=======
+# projeto-ReacT
+Projeto feito durante a semana de seminários 2
