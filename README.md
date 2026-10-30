@@ -22,7 +22,7 @@ copy .env.example .env
 
 O passo a passo para conseguir a chave, e o limite de requisições, estão no `README.md` da pasta `aula4` e no `.env.example`. O `.env` não vai para o GitHub.
 
-## Projeto final (`1-src-final/`)
+## Projeto final (`src/`)
 
 É o código final da aula 4 (`aula4/3-src-meus-filmes/`) com as **estrelas** e o **CSS completo**. A pesquisa, a **Minha lista** e as notas salvas no navegador já vêm da aula 4:
 
@@ -34,7 +34,7 @@ O passo a passo para conseguir a chave, e o limite de requisições, estão no `
 
 O `1-src-final/README.md` lista tudo o que mudou em relação à aula 4.
 
-O `index.html` aponta para a pasta no `<script>`: `src="/1-src-final/main.jsx"`.
+O `index.html` aponta para a pasta no `<script>`: `src="/src/main.jsx"`.
 
 ## Onde ficam os dados
 
